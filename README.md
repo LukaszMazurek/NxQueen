@@ -1,2 +1,2 @@
 # NxQueen
-backtracking solution of NxQueen proble with visualisation in pygame
+backtracking solution of NxQueen problem with visualisation in pygame
