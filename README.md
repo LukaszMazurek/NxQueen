@@ -1,2 +1,2 @@
 # NxQueen
-backtracking solution of NxQueen problem with visualisation in pygame
+Solution of NxQueen problem with using bactracking algorithm with visualisation in pygame.
