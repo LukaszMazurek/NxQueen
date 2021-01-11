@@ -7,7 +7,7 @@ use command python get-pip.py
 Finally install pygame, using command below  
 pip install pygame  
 # How to use
-put the number from 4 to 16 and see the solution of NxQueen problem solution
+put the number from 4 to 16 and see the solution of NxQueen problem 
 # Setup
 To run this project  
 python NxQueen.py
