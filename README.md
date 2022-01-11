@@ -1,5 +1,5 @@
 # NxQueen
-NxQueen is visualization how backtrackieng works for NxQueen problem.
+Visualization how backtrackieng works for NxQueen problem.
 # Instalation
 Download and install 3+ python interpreter from this page https://www.python.org/  
 Check that you have pip manager with command pip --varsion, if you haven't got pip  
